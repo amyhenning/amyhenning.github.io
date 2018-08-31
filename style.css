@@ -32,8 +32,13 @@ h1 {
 
 h2 {
 	font-family: 'Questrial', sans-serif;
-	color: #6c6d6d;
+	color: #939393;
+	font-size: 30px;
 	margin: 0;
+}
+
+p {
+	line-height: 1.8;
 }
 
 .navbar {
@@ -165,7 +170,7 @@ h2 {
 	padding-bottom: 3%;
 	padding-left: 10%;
 	padding-right: 10%;
-	background-color: #afe0e0;
+	background-color: #bcf2f2;
 	width: 100%;
 }
 
@@ -182,7 +187,6 @@ h2 {
 .individual-web-app p {
   width: 55%;
   float: left;
-  padding-bottom:;
 }
 
 .footer {
