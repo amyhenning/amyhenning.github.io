@@ -167,3 +167,55 @@ p {
 	color: #c0b283;
 	border-bottom: none;
 }
+
+.devicon-ruby-plain {
+  font-size: 30px;
+}
+
+.devicon-rails-plain {
+  font-size: 30px;
+}
+
+.devicon-html5-plain {
+  font-size: 30px;
+}
+
+.devicon-css3-plain {
+  font-size: 30px;
+}
+
+.devicon-javascript-plain {
+  font-size: 30px;
+}
+
+.devicon-jquery-plain {
+  font-size: 30px;
+}
+
+.devicon-postgresql-plain {
+  font-size: 30px;
+}
+
+.devicon-github-plain {
+  font-size: 30px;
+}
+
+.devicon-heroku-plain {
+  font-size: 30px;
+}
+
+.devicon-slack-plain {
+  font-size: 30px;
+}
+
+.devicon-trello-plain {
+  font-size: 30px;
+}
+
+.devicon-nodejs-plain {
+  font-size: 30px;
+}
+
+.devicon-bootstrap-plain {
+  font-size: 30px;
+}
