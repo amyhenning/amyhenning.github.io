@@ -72,7 +72,7 @@ p {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 500px;
+  height: 700px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -85,7 +85,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  padding: 3%;
+  padding: 5%;
   border-radius: .25em;
 }
 
@@ -103,7 +103,7 @@ p {
 }
 
 .info p {
-  width: 72%;
+  width: 75%;
   float: left;
 }
 
@@ -113,20 +113,28 @@ p {
 	margin-left: 3%;
 	border-radius: .25em;
 	border: 8px solid #fff;
+	margin-bottom: 5%;
 }
 
 .skills {
 	padding-top: 5%;
 	padding-left: 10%;
 	padding-right: 10%;
-}
+	padding-bottom: 5%;
+	background-color: #373737;
+	color: #f4f4f4;
+}/*
+
+.skills h1 {
+	color: #f4f4f4;
+}*/
 
 .contact {
 	padding-top: 5%;
 	padding-left: 10%;
 	padding-right: 10%;
 	padding-bottom: 5%;
-	margin-bottom: 5%;
+	margin-bottom: 75px;
 }
 
 .projects {
@@ -137,6 +145,7 @@ p {
 	padding-right: 10%;
 	margin-bottom: 5%;
 }
+
 
 .individual-web-app img {
 	width: 400px;
@@ -177,61 +186,61 @@ p {
 }
 
 .devicon-ruby-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-rails-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-html5-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-css3-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-javascript-plain {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-jquery-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-postgresql-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-github-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-heroku-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-slack-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-trello-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-nodejs-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-bootstrap-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-photoshop-plain {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .devicon-google-plain-wordmark {
-  font-size: 50px;
+  font-size: 40px;
 }
